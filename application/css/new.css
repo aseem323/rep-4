@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+}
+div
+        {
+         background-color:white ; 
+         text-align: center;
+         border-radius: 40px;
+         float: left;  
+         margin-left: 45%; 
+         margin-top: 20%;
+         width: 250px;
+                 }
+                 input
+                 {
+                     border-radius: 50px;
+                     border: 0px;
+                     background-color: silver;
+                     text-align: center;
+                    
+                     
+
+                 }
+                 #submit
+                 {
+                    color: white;
+                     background-color: blue;
+                     width: 58%;
+                     margin-bottom: 10px;
+
+
+                 }
+                 p
+                 {
+                     font-weight: 1000;
+                     font-size: large;
+                     padding-top: 10px;
+                     margin-top: 0px;
+                 }
